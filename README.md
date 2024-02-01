@@ -1,8 +1,6 @@
 # Venmo
 Venmo app – a digital wallet that allows you to easily pay friends when you owe them money.
 
-Certainly! Writing a good README is crucial for your repository as it helps users, collaborators, or potential employers understand your project. Here's a template for a README based on the provided information:
-
 ---
 
 # Venmo Transactions
